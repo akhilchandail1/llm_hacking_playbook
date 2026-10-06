@@ -139,4 +139,4 @@ Only run these against systems you own or have written permission to test.
 Suggestions are welcome. Open a pull request adding a resource with a one-line description of what a learner gets from it.
 
 ## Want the full version?
-A formatted PDF edition and an Excel progress tracker are available on [Topmate](https://topmate.io/YOUR_USERNAME).
+A formatted PDF edition and an Excel progress tracker are available on [Topmate](https://topmate.io/akhil_chandail).
